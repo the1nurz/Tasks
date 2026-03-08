@@ -4,6 +4,6 @@
   "description": "Library with generators and iterators (Fibonacci)",
   "main": "src/index.js",
   "type": "module",
-  "author": "volodymyr zelenskyi",
+  "author": "the1nurz",
   "license": "MIT"
 }
